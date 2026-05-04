@@ -42,7 +42,7 @@ This profile documents my progress, mistakes, and growth—step by step.
 ---
 
 ## 🤝 Let's Connect
-- YouTube: [(add your channel link)](https://www.youtube.com/@RozKuchNaya00)
+- YouTube: [(rozkuchnaya)](https://www.youtube.com/@RozKuchNaya00)
 
 
 ---
