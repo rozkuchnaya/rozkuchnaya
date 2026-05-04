@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamza khan
 
-<!--
-**rozkuchnaya/rozkuchnaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Learning Python by building real projects every day.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! This is where I share my daily coding journey, Python projects, and everything I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🐍 What I'm Doing
+- Building **1 Python project every day**
+- Learning by doing (not just tutorials)
+- Exploring real-world applications
+
+---
+
+## 📂 Projects You'll Find Here
+- 🎮 Games (Snake, Tic-Tac-Toe, Guess the Number)
+- 🛠 Tools (Calculator, To-Do List, Password Generator)
+- 🤖 Automation (File Organizer, Web Scraper, Email Sender)
+- 📊 Data Projects (Charts, Analysis, Visualization)
+- 🌐 Web Apps (Flask apps, APIs, Dashboards)
+
+---
+
+## 🎯 Goal
+To become a skilled Python developer by consistently building and sharing projects.
+
+---
+
+## 💡 Why This Profile?
+I believe the best way to learn programming is by creating real things.  
+This profile documents my progress, mistakes, and growth—step by step.
+
+---
+
+## 📈 Currently Learning
+- Python Basics & Advanced Concepts  
+- Automation & Scripting  
+- Web Development (Flask/Django)  
+- Data Analysis  
+
+---
+
+## 🤝 Let's Connect
+- YouTube: (add your channel link)
+- Email: (your email)
+- Socials: (optional)
+
+---
+
+⭐ Follow my journey and explore my projects!
